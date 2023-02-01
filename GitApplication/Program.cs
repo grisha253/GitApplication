@@ -12,5 +12,11 @@ namespace GitApplication
         {
         }
         public static void MatrixB(int w, int h) { }
+        public static void PrintMyName()
+        {
+            Console.WriteLine("Mardanov Mihail Ruslanovich");
+            Console.WriteLine("10.4");
+            Console.WriteLine("february, 1");
+        }
     }
 }
